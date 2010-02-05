@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfSplitter", "PdfSplitter\PdfSplitter.csproj", "{FFF460AC-F2EE-435F-9AA9-82657D952930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfSplitter.Tests", "PdfSplitter.Tests\PdfSplitter.Tests.csproj", "{9CB88B90-89F8-41C0-A498-DDA185327224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF460AC-F2EE-435F-9AA9-82657D952930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF460AC-F2EE-435F-9AA9-82657D952930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF460AC-F2EE-435F-9AA9-82657D952930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF460AC-F2EE-435F-9AA9-82657D952930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB88B90-89F8-41C0-A498-DDA185327224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB88B90-89F8-41C0-A498-DDA185327224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB88B90-89F8-41C0-A498-DDA185327224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB88B90-89F8-41C0-A498-DDA185327224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
